@@ -1,0 +1,36 @@
+.header{
+    color: brown;
+    text-align: center;
+    margin-top: 10px;
+    font-style: italic;
+    font-size:larger;
+    font-weight: bold;
+}
+.shoot{
+    display: inline-block;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.photo{
+    background-color: black;
+    width:fit-content;
+    height:fit-content ;
+    top: 10%;
+}
+.sentence{
+position: absolute;
+z-index: 5;
+color: cadetblue;
+right: 10;
+}
+.main{
+    font-style: oblique;
+    font-weight: 500;
+    color: #132979;
+}
+.footer{
+    color: rgb(33, 91, 91);
+}
+
+
+
